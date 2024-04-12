@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Jamshid Muxtorov
 - 👀 I'm interested in Frontend
-- 🌱I'm currently learning Redux,Redux Tool-kit
+- 🌱I'm currently learning Redux,Redux Toolkit
 
 - 📫 How to contact me - https://t.me/young_Republic
 <!---
